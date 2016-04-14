@@ -1,0 +1,41 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: #2B2B2D;
+  color: #CBD1D6;
+  font-family: "Fira Mono", monospace;
+  font-size: 14px;
+}
+h3 {
+  margin: 1em 0 0;
+}
+pre {
+  margin: 0;
+}
+.container-left, .container-right {
+  height: 100%;
+  overflow: hidden;
+  padding: 0 1em;
+}
+.container-left {
+  border-right: 2px solid #CBD1D6;
+  position: fixed;
+  width: 32em;
+}
+.container-right {
+  margin-left: 35em;
+}
+@media (max-width: 56em) {
+  .container-left, .container-right {
+    height: auto;
+  }
+  .container-left {
+    border-right: none;
+    position: relative;
+  }
+  .container-right {
+    margin-left: 0;
+  }
+}
