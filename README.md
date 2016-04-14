@@ -9,6 +9,8 @@ CSS
 
 ![CSS](https://github.com/Kelbster/highlightjs-material-dark-theme/blob/master/images/cssdark.png?raw=true)
 
-Based off of [Material theme](https://github.com/equinusocio/material-theme) for Sublime Text
+Based off of equinusocio's [Material theme](https://github.com/equinusocio/material-theme) for Sublime Text
 
 For use with [Highlight.js](https://github.com/isagalaev/highlight.js)
+
+[highlightjs.org](https://highlightjs.org/)
