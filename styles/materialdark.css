@@ -12,7 +12,7 @@
   padding: 1em;
   background: #2B2B2D;
   color: #CDD3D8;
-  font-family: "Fira Mono";
+  font-family: "Fira Mono", monospace;
   font-size: 1em;
 }
 .hljs > *::selection {
