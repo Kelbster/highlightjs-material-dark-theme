@@ -1,11 +1,17 @@
 # highlightjs-material-dark-theme
 Material Dark theme for Highlight.js
 
-JavaScript
+## Installation
+`bower install highlightjs-material-dark`
 
+or clone/fork/download this repo
+
+##Example:
+
+####JavaScript
 ![JavaScript](https://github.com/Kelbster/highlightjs-material-dark-theme/blob/master/images/jsdark.png?raw=true)
 
-CSS
+####CSS
 
 ![CSS](https://github.com/Kelbster/highlightjs-material-dark-theme/blob/master/images/cssdark.png?raw=true)
 
