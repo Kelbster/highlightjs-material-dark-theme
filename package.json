@@ -1,0 +1,21 @@
+{
+  "name": "highlightjs-material-dark-theme",
+  "version": "0.0.1",
+  "description": "Material Dark theme for Highlight.js",
+  "main": "highlight.pack.js",
+  "files": [
+    "styles/materialdark.css"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "highlight",
+    "highlightjs",
+    "syntax",
+    "code"
+  ],
+  "author": "Kelby Gassman (http://kelbster.github.io/)",
+  "homepage": "https://github.com/Kelbster/highlightjs-material-dark-theme",
+  "license": "MIT"
+}
