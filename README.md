@@ -3,12 +3,14 @@ Material Dark theme for Highlight.js
 
 ## Installation
 ```
-npm install highlightjs-material-dark
+npm install highlightjs-material-dark-theme
 ```
 
+```
+yarn add highlightjs-material-dark-theme
 
 ```
-bower install highlightjs-material-dark
+bower install highlightjs-material-dark-theme
 ```
 
 or clone/fork/download this repo
