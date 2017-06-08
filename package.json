@@ -1,6 +1,6 @@
 {
   "name": "highlightjs-material-dark-theme",
-  "version": "2.0.0",
+  "version": "0.0.0",
   "description": "Material Dark theme for Highlight.js",
   "main": "highlight.pack.js",
   "dependencies": {
