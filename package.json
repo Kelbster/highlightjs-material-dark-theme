@@ -3,8 +3,11 @@
   "version": "0.0.1",
   "description": "Material Dark theme for Highlight.js",
   "main": "highlight.pack.js",
+  "dependencies": {
+    "highlightjs": "9.8.0"
+  },
   "files": [
-    "styles/materialdark.css"
+    "css/materialdark.css"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
