@@ -16,12 +16,13 @@ bower install highlightjs-material-dark-theme
 
 or clone/fork/download this repo
 
-##Example:
+## Example:
 
-####JavaScript
+#### JavaScript
+
 ![JavaScript](https://github.com/Kelbster/highlightjs-material-dark-theme/blob/master/images/jsdark.png?raw=true)
 
-####CSS
+#### CSS
 
 ![CSS](https://github.com/Kelbster/highlightjs-material-dark-theme/blob/master/images/cssdark.png?raw=true)
 
