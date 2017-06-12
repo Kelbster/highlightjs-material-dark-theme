@@ -8,6 +8,7 @@ npm install highlightjs-material-dark-theme
 
 ```
 yarn add highlightjs-material-dark-theme
+```
 
 ```
 bower install highlightjs-material-dark-theme
