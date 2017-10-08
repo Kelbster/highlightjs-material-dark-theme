@@ -1,10 +1,10 @@
 # highlightjs-material-dark-theme
 Material Dark theme for Highlight.js
 
-_I have quite a few other projects going on so development for this is on hold indefinitely. Feel free to fork or open a PR._
+_Development for this is on hold indefinitely. I just wanted a Material Dark option. Feel free to fork or open a PR._
 
 ## Installation
-Package installation is in progress so right now you can clone/fork/download this repo and/or use the raw `materialdark.css` file.
+Right now you can clone/fork/download this repo and/or use the raw `materialdark.css` file.
 
 ## Example:
 
